@@ -6,4 +6,4 @@
 
 ## SEARCH:
 
-Lec 1 (INTRO TO SEARCH AND UNINFORMED SEARCH STRATEGIES): 
+Lec 1 (INTRO TO SEARCH AND UNINFORMED SEARCH STRATEGIES): https://aarushiaiyyariitb.github.io/Artificial-Intelligence-Notes/Lec%20-%201/
